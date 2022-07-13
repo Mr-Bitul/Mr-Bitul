@@ -168,7 +168,7 @@ exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghv
 - 🤔 𝐈'𝐦 𝐁𝐚𝐬𝐢𝐜 𝐜𝐨𝐝𝐞𝐫
 - ⚡️ 𝐌𝐲 𝐇𝐨𝐛𝐛𝐲 𝐢𝐬 𝐇𝐚𝐜𝐤𝐢𝐧𝐠
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠, 𝐈 𝐚𝐦 𝐡𝐚𝐩𝐩𝐲 𝐭𝐨 𝐡𝐞𝐥𝐩;
-- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: bitul3490@gmail.com
+- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: https://www.facebook.com/ITS.MR.BITUL
 
  
  
@@ -351,7 +351,7 @@ exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcbbdbvsdgcdgsvsdghvsdghcvsdghsdghc
 exec("hhhvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh") --> <footer>
     <p>Author    : <a href="https://github.com/bitulvau" alt="kavidu"> <img src="https://img.shields.io/badge/MR.BITUL-10102f?logo=github" /> </a>  
-	<p>Powerd by : <a href="https://youtube.com/channel/UC9bZkVp0jppXeyH41ZvFoSA"><img title="YouTube" src="https://img.shields.io/badge/Kavidu rasanjana-red?style=for-the-badge&logo=Youtube"></a></p>
+	<p>Powerd by : <a href="https://www.facebook.com/bitulvau"><img title="Facebook" src="https://img.shields.io/badge/MR BITUL-yellow?style=for-the-badge&logo=Facebook"></a></p>
 	<p><a href="https://github.com/bitulvau">MR.BITUL</a></p>
  </footer><!-- exec("nbjmhytvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
 exec("fbdsvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
