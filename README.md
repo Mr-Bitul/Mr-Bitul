@@ -1,9 +1,9 @@
 #  W E L C O M E <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-## K A V I D U  R A S A N J A N A            
-( S R I L A N K A 🇱🇰 )👋  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## M  R    B  I  T  U  L            
+( B A N G L A D E S H  🇧🇩 )👋  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
  
-<p align="center"><a href="https://github.com/kavidu404"><img src="https://j.top4top.io/p_1966skgw80.jpg" height='195' alt="kavidu404">
-<p align="center"><a href="https://wa.me/+94764117154"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
+<p align="center"><a href="https://github.com/bitulvau"><img src="https://j.top4top.io/p_1966skgw80.jpg" height='195' alt="bitulvau">
+<p align="center"><a href="https://wa.me/+8801903624823"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
 <img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/blob/main/md7Oqrf.gif " width="300%"> 
 <p align="center">
   <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
@@ -13,8 +13,8 @@
 </div>
  
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/kavidu404)
-- [![GitHub followers](https://img.shields.io/github/followers/kavidu404.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kavidu404?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/bitulvau)
+- [![GitHub followers](https://img.shields.io/github/followers/bitulvau.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bitulvau?tab=followers)
  
 <div align="center"> 
 </div>
